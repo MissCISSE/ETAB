@@ -55,6 +55,7 @@ public class Main {
                 ArrayList<Professeur> listeProfesseurs = new ArrayList<>();
 
                 while (running) {
+
                     // Affichage du menu principal
                     System.out.println("MENU:");
                     System.out.println("1: Gestion des élèves");
