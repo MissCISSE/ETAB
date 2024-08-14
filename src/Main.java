@@ -70,7 +70,7 @@ public class Main {
 
                     switch (choixMenu) {
                         case 1:
-                            boolean gestionEleves = true;
+                             boolean gestionEleves = true;
                             while (gestionEleves) {
                                 // Menu de gestion des élèves
                                 System.out.println("******************************************************");
