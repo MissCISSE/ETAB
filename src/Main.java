@@ -184,8 +184,7 @@ public class Main {
                                         } else {
                                             System.out.println("Élève introuvable.");
                                         }
-                                        break;
-                                    case 4:
+                                        break; case 4:
                                          // Lister les élèvesss
                                         System.out.println("Liste des élèves :");
                                         for (Eleve e : listeEleves) {
