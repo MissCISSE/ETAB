@@ -72,7 +72,7 @@ public class Main {
                         case 1:
                              boolean gestionEleves = true;
                             while (gestionEleves) {
-                                 // Menu de gestion des élèves
+                                 // Menu de gestion des élèves:
                                 System.out.println("******************************************************");
                                 System.out.println("GESTION DES ELEVES");
                                 System.out.println("******************************************************");
